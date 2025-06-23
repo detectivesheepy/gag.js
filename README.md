@@ -22,3 +22,5 @@ features include:
 - Hosted on Vercel
 - Use URL - ``https://gagapi-zeta.vercel.app/``
 - More detailed explenation coming soon!
+# Alternative URLs hosted:
+``https://gagapi-catclub.vercel.app/`` ``https://gagapi-git-main-catclub.vercel.app/``
